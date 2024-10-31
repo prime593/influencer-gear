@@ -242,11 +242,11 @@ main {
     .banner-container {
         flex-direction: column;
         gap: 50px;
-        margin: 0 20px;
+        margin: 50px 20px;
     }
 
     .banner-title {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
 
     .banner-images img {
